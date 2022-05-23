@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NaughtyDoc", "NaughtyDoc\NaughtyDoc.vbproj", "{09F6EB1E-E38A-4620-8F27-C72D9A1FFC4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		DebugEx|Any CPU = DebugEx|Any CPU
+		DebugEx|x64 = DebugEx|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09F6EB1E-E38A-4620-8F27-C72D9A1FFC4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F6EB1E-E38A-4620-8F27-C72D9A1FFC4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09F6EB1E-E38A-4620-8F27-C72D9A1FFC4E}.Debug|x64.ActiveCfg = Debug|x64
+		{09F6EB1E-E38A-4620-8F27-C72D9A1FFC4E}.Debug|x64.Build.0 = Debug|x64
+		{09F6EB1E-E38A-4620-8F27-C72D9A1FFC4E}.DebugEx|Any CPU.ActiveCfg = DebugEx|Any CPU
+		{09F6EB1E-E38A-4620-8F27-C72D9A1FFC4E}.DebugEx|Any CPU.Build.0 = DebugEx|Any CPU
+		{09F6EB1E-E38A-4620-8F27-C72D9A1FFC4E}.DebugEx|x64.ActiveCfg = DebugEx|x64
+		{09F6EB1E-E38A-4620-8F27-C72D9A1FFC4E}.DebugEx|x64.Build.0 = DebugEx|x64
+		{09F6EB1E-E38A-4620-8F27-C72D9A1FFC4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09F6EB1E-E38A-4620-8F27-C72D9A1FFC4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09F6EB1E-E38A-4620-8F27-C72D9A1FFC4E}.Release|x64.ActiveCfg = Release|x64
+		{09F6EB1E-E38A-4620-8F27-C72D9A1FFC4E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {654B0AB3-E499-423E-9C7C-184AA9EE7246}
+	EndGlobalSection
+EndGlobal
